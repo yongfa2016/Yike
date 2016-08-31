@@ -1,0 +1,1 @@
+var Navs=Navs.controller('')
